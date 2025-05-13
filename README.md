@@ -32,7 +32,7 @@ Cada repositório desta organização corresponde a uma aula prática com exerc�
 
 ## 👩‍🏫 Professor(a) Responsável
 
-- *Nome*: [Alexandre Carlos de Jesus]
+- *Nome*: Alexandre Carlos de Jesus
 - *Disciplina*: Desenvolvimento Front-End
 - *Instituição*: [FIAP - Faculdade de Informática e Administração Paulista](https://www.fiap.com.br)
 
